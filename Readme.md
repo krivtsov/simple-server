@@ -14,7 +14,7 @@ or
 rake install
 ```
 
-## Start sever
+## Start server
 
 ```bash
 rake start
